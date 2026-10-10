@@ -4,10 +4,10 @@
 
 💻 Aspiring Web Developer | 🎨 Graphic Designer
 
-- 🌱 I'm currently learning HTML, CSS, JavaScript and UI/UX Design.
-- 🎨 I enjoy creating websites and designing creative visuals.
-- 🚀 I'm building my skills through college projects and personal practice.
-- 🎯 My goal is to become a Web Developer and Graphic Designer.
+- I'm currently learning HTML, CSS, JavaScript and UI/UX Design.
+- I enjoy creating websites and designing creative visuals.
+- I'm building my skills through college projects and personal practice.
+- My goal is to become a Web Developer and Graphic Designer.
 
 ### 🛠️ Skills I'm Learning
 - HTML
